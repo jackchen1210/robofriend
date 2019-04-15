@@ -1,7 +1,7 @@
 export const robots = [
 {
 	id : 0,
-	name: "jack"
+	name: "Jack"
 },
 {
 	id : 1,
