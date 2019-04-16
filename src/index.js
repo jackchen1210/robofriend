@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import * as serviceWorker from './serviceWorker'; //app become faster 
 import 'tachyons';
-import App from './App';
+import App from './containers/App.js';
 
 ReactDOM.render(<App/>, document.getElementById('root'));
 
